@@ -1,0 +1,51 @@
+[
+  {
+    "Year":1950,
+    "Oakland":390000,
+    "San Francisco":790000,
+    "San Jose":100000
+  },
+  {
+    "Year":1960,
+    "Oakland":370000,
+    "San Francisco":720000,
+    "San Jose":200000 
+    
+  },
+  {
+    "Year":1970,
+    "Oakland":360000,
+    "San Francisco":700000,
+    "San Jose":450000 
+  },
+  {
+    "Year":1980,
+    "Oakland":350000,
+    "San Francisco":690000,
+    "San Jose":600000 
+  },
+  {
+    "Year":1990,
+    "Oakland":390000,
+    "San Francisco":720000,
+    "San Jose":800000 
+  },
+  {
+    "Year":2000,
+    "Oakland":400000,
+    "San Francisco":780000,
+    "San Jose":820000 
+  },
+  {
+    "Year":2010,
+    "Oakland":390000,
+    "San Francisco":800000,
+    "San Jose":950000 
+  },
+  {
+    "Year":2012,
+    "Oakland":400000,
+    "San Francisco":820000,
+    "San Jose":990000 
+  }
+]
