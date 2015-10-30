@@ -10,7 +10,6 @@ require('./models/chartData');
 
 var routes = require('./routes/index');
 var users = require('./routes/users');
-
 var app = express();
 
 mongoose.connect('mongodb://localhost/chart-data-db/');
